@@ -20,6 +20,8 @@ Its value is derived from its scarcity and utility.
 
 - bitcoin units of the currency
 
+- also BTC
+
 ## Crypto
 
 Techniques for secure communication in the presence of third parties
@@ -90,6 +92,23 @@ Verify blockchain and communicate with peers
 - Often refers to the software managing that file
 
 # Comparision
+
+## Early Internet 1/3
+
+* It's for nerds. "Fine, you nerds can do what you want but normal people are never going to use this thing."
+* It's completely decentralized, which means you can't trust it. No business is ever going to do anything on it because businesses won't work on an untrusted environment. There won't ever be any e-commerce.
+* There will never be any internet payments. No one will put their credit card on the internet.
+* It's an open-source kind of thing so there will be no Internet companies.
+
+## Early Internet 2/3
+
+* It's got all these technical deficiencies. It's slow. It's unreliable. It doesn't work right. When you do a search, sometimes you get an answer back and sometimes you don't. Sometimes when you dial in you get a busy signal.
+* What happen if your ISP goes out of business? Then you can't get back online.
+* Once you get on the internet, even assuming you get on the internet, there's nothing to do. There's no content. Time magazine isn't online, the New York Times isn't online. It's just a bunch of nerd stuff.
+
+## Early Internet 3/3
+
+Basically every single criticism of the Internet ended up getting solved. Every single supposed fatal flaw got eliminated.
 
 ## HTTP
 
@@ -221,9 +240,21 @@ Bitcoin Improvement Proposals
 
 - Payment Protocol
 
-## Crowdfunding
+## Crowd funding
+
+### a.k.a. insurance contracts
 
 Individuals pledge money to a project that is taken from them only if enough pledges are received to meet the target.
+
+- Kickstarter
+
+- Web page translation
+
+# Smart property
+
+- Car keys
+
+- Key cards
 
 ## Micro payments
 
@@ -231,12 +262,23 @@ Individuals pledge money to a project that is taken from them only if enough ple
 - Viewing web pages with a small tip for each ad not shown
 - Buying bandwidth from a WiFi hotspot by the kilobyte
 
-## Dispute mediation
-
-A 3-party can approve or reject a transaction in case of disagreement between the other parties without having control on their money
-
 ## Multi-signature accounts
 
 Certain number of a defined group of persons agree to sign the transaction
 
+## Dispute mediation
+
+A 3-party can approve or reject a transaction in case of disagreement between the other parties without having control on their money
+
+## Oracles
+
+
 ## Financial instruments
+
+- Trustless collaterized lending
+
+- Bonds
+
+- Funds with policies
+
+- Exchanges (Ripple)
