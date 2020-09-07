@@ -68,7 +68,7 @@ Liquidity is provided by locking tokens in a pool 🎱
 </section>
 
 <section>
-Arbitrageurs are incentivized to keep the the pool balanced 
+Arbitrageurs are incentivized to keep the pool balanced 
 <p class="fragment">
 LPs receive liquidity tokens
 </p>
@@ -226,8 +226,7 @@ LPs get the $COMP governance token
 
 <section>
 ### AAVE <a href="https://aave.com/"><img style="vertical-align: middle" height="100" src="aave.png" /></a>
-Compound is a
-Similar to compound
+Similar to Compound
 <p class="fragment">
 Pioneered flash loans
 </p>
