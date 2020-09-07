@@ -3,21 +3,17 @@ title: Current state of DeFi
 reveal: true
 theme: white
 summary: |
-    Decentralized Finance or DeFi all the rage now pulling in billions of dollars into shaky smart contracts over the period of hours. Keeping track of food-finance protocols is certinaly a full time job. I spent a weekend to get a lay of the land and this here is the result. Enjoy.
+    Decentralized Finance or DeFi all the rage now pulling in billions of dollars into shaky smart contracts over the period of hours. Keeping track of food tokens is certinaly a full time job. I spent a weekend to get a lay of the land and this here is the result. 
 featureimage: 2020/09/current-state-of-defi/defi.png
 ---
 
 <section>
 <section data-background-image="defi.png" data-background-size="strech" data-background-repeat="no-repeat" style="color: white">
-<h2 style="color: darkorange">
+<h2 style="color: dodgerblue; text-shadow: 2px 2px deeppink">
 Current state of DeFi
 </h2>
-
-Gísli Kristjánsson
-<small>
-
-September 6, 2020
-</small>
+<p style="-webkit-text-stroke: 1px black">Gísli Kristjánsson</p>
+<small>September 6, 2020</small>
 </section>
 
 <section>
@@ -238,6 +234,16 @@ Pioneered flash loans
 </section>
 
 <section>
+### Cream <a href="https://cream.finance/"><img style="vertical-align: middle" height="100" src="cream.png" /></a>
+<p class="fragment">
+Based on Compound
+</p>
+<p class="fragment">
+Deployed to Binance Smart Chain
+</p>
+</section>
+
+<section>
 ### dydx <a href="https://dydx.exchange/"><img style="vertical-align: middle" height="100" src="dydx.png" /></a>
 Derivaties exchange and margin trading
 </section>
@@ -261,14 +267,14 @@ Profit switching lender to optimize lending yields
 
 <section>
 ### yearn <a href="https://yearn.finance/"><img style="vertical-align: middle" height="100" src="yearn.png" /></a>
-The yearn.finance ecosystem is controlled by the $YFI token
+The yEarn ecosystem is controlled by the $YFI token
 
 <p class="fragment">
-$YFI a completely valueless 0 supply token. We reiterate, it has 0 financial value
+> $YFI a completely valueless token. We reiterate, it has 0 financial value.
 </p>
 
 <p class="fragment">
-$YFI rallying by more than 4,000% within days of release. 
+$YFI rallying by more than 4,000% in days
 </p>
 </section>
 </section>
@@ -296,7 +302,30 @@ Often anonymous teams 🤡
 <p class="fragment">
 The power of composability 🧩
 </p>
+</section>
 
+<section>
+### yETH <a href="https://yearn.finance/"><img style="vertical-align: middle" height="100" src="yeth.png" /></a>
+<img class="r-stretch" src="yeth-tweet.png" alt="yEth tweet">
+</section>
+
+<section>
+### yETH <a href="https://yearn.finance/"><img style="vertical-align: middle" height="100" src="yeth.png" /></a>
+Latest vault from yEarn
+<p class="fragment">
+$14MM TVL in 48 hours
+</p>
+<p class="fragment">
+Uses MakerDAO's OSM to delay liquidation by 1 hour
+</p>
+</section>
+
+<section data-background-image="yeth-flow.jpg" data-background-size="contain" data-background-repeat="no-repeat">
+</section>
+
+<section>
+### Kimchi <a href="https://kimchi.finance/"><img style="vertical-align: middle" height="100" src="kimchi.png" /></a>
+<img class="r-stretch" src="kimchi-explained.png" alt="Kimchi explained">
 </section>
 
 <section>
@@ -344,39 +373,11 @@ Ironically uses Uniswap to convert $SUSHI to $ETH
 </section>
 
 <section>
-### Kimchi <a href="https://kimchi.finance/"><img style="vertical-align: middle" height="100" src="kimchi.png" /></a>
-<img class="r-stretch" src="kimchi-explained.png" alt="Kimchi explained">
+<img class="r-stretch" src="defi-is-dead.png" alt="DeFi is dead">
+</section>
 </section>
 
-<section>
-### Cream <a href="https://cream.finance/"><img style="vertical-align: middle" height="100" src="cream.png" /></a>
-<p class="fragment">
-Based on Compound
-</p>
-<p class="fragment">
-Deployed to Binance Smart Chain
-</p>
-</section>
 
-<section>
-### yETH <a href="https://yearn.finance/"><img style="vertical-align: middle" height="100" src="yeth.png" /></a>
-<img class="r-stretch" src="yeth-tweet.png" alt="yEth tweet">
-</section>
-
-<section>
-### yETH <a href="https://yearn.finance/"><img style="vertical-align: middle" height="100" src="yeth.png" /></a>
-Latest vault from yEarn
-<p class="fragment">
-$14MM TVL in 48 hours
-</p>
-<p class="fragment">
-Uses MakerDAO's OSM to delay liquidation by 1 hour
-</p>
-</section>
-
-<section data-background-image="yeth-flow.jpg" data-background-size="contain" data-background-repeat="no-repeat">
-</section>
-</section>
 
 <section>
 <section>

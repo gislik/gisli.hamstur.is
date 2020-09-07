@@ -704,7 +704,7 @@ func makeDifficultyCalculator(bombDelay *big.Int) func(time uint64, parent *type
 }
 ~~~
 
-This concludes my journey into Ethereum and its Go implementation. There are a number of other interesting aspects which unfortunately I couldn't cover but I encourage you to take the leap and dive right into the beast 🧟. 
+This concludes my journey into Ethereum and its Go implementation. There are a number of other interesting aspects which unfortunately I couldn't cover but I encourage you to take the leap and dive right into the beast 🦖.
 
 [Gisli]{.handwritten}
 
